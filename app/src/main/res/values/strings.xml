@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">musicapp</string>
+    <string name="my_list">My List</string>
+    <string name="back_to_main">Back to Main List</string>
+    <string name="entry_text">Music is Life</string>
+    <string name="message_text">be yourself.</string>
+    <string name="back_to_track">Back to \nTrack List</string>
+</resources>

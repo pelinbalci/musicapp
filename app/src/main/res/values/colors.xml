@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary app bar color of the app -->
+    <color name="primary_color">#EC407A</color>
+
+    <!-- Primary status bar dark color of the app -->
+    <color name="primary_dark_color">#C2185B</color>
+
+    <!-- Background color -->
+    <color name="background">#fce4ec</color>
+
+    <!-- Background color for main screen Tracks -->
+    <color name="category_main">#FFCA28</color>
+</resources>
